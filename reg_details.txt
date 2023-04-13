@@ -1,0 +1,1746 @@
+3) 
+
+The Vehicle ID is: XHOI57D
+Enter password for veh_ID 'XHOI57D': 'a'
+Veh pswd is  'a'
+HPW is  3cbccad2d7563d936566fd47af55297f666058b0517d8c9c92b680b73947dde6
+Sending Veh_ID =  XHOI57D 
+HPW =  3cbccad2d7563d936566fd47af55297f666058b0517d8c9c92b680b73947dde6
+Veh_IDs matched ... Gen polynomial
+
+Degree is  7
+t_deg is  3
+h_deg is  4
+t_list is  [72, -78, 52, -43]
+h_list is  [-26, -94, -73, 16, -44]
+Polynomial t(x)= 
+72  
+ +   
+-78  
+x^ 1  
+ +   
+52  
+x^ 2  
+ +   
+-43  
+x^ 3  
+
+ Polynomial h(x)= 
+-26  
+ +   
+-94  
+x^ 1  
+ +   
+-73  
+x^ 2  
+ +   
+16  
+x^ 3  
+ +   
+-44  
+x^ 4  
+
+Product polynomial is 
+-1872  
+ +   
+-4740  
+x^ 1  
+ +   
+724  
+x^ 2  
+ +   
+3076  
+x^ 3  
+ +   
+-4170  
+x^ 4  
+ +   
+7403  
+x^ 5  
+ +   
+-2976  
+x^ 6  
+ +   
+1892  
+x^ 7  
+---------------------------
+
+Sending NVID =  80e427cd4c89edd5219792015bb1f1be3702c4f25b5eaee9865298aa03d48ffe 
+T eq , degree =  7  to TA
+new NVID is  ca773b30882e7f98d85f035a63a29b04945cb0ad7107673859804636d76c0c3d Reg status is  S
+Reg Successful
+
+Total time taken for veh  XHOI57D  reg is  0.0017833709716796875  sec
+=========================================================
+
+4) 
+
+The Vehicle ID is: RI3FRPN
+Enter password for veh_ID 'RI3FRPN': 'q'
+Veh pswd is  'q'
+HPW is  cf9260064284d22364823bc5de1f9cbf6b45d941c62209d1795c25b6d1dc63a9
+Sending Veh_ID =  RI3FRPN 
+HPW =  cf9260064284d22364823bc5de1f9cbf6b45d941c62209d1795c25b6d1dc63a9
+Veh_IDs matched ... Gen polynomial
+
+Degree is  7
+t_deg is  3
+h_deg is  4
+t_list is  [61, -44, 85, -10]
+h_list is  [74, -64, -36, 51, 45]
+Polynomial t(x)= 
+61  
+ +   
+-44  
+x^ 1  
+ +   
+85  
+x^ 2  
+ +   
+-10  
+x^ 3  
+
+ Polynomial h(x)= 
+74  
+ +   
+-64  
+x^ 1  
+ +   
+-36  
+x^ 2  
+ +   
+51  
+x^ 3  
+ +   
+45  
+x^ 4  
+
+Product polynomial is 
+4514  
+ +   
+-7160  
+x^ 1  
+ +   
+6910  
+x^ 2  
+ +   
+-1485  
+x^ 3  
+ +   
+-1919  
+x^ 4  
+ +   
+2715  
+x^ 5  
+ +   
+3315  
+x^ 6  
+ +   
+-450  
+x^ 7  
+---------------------------
+
+Sending NVID =  307481529d8a678c9a288cccd88a8195e44e7b1125b42bc4c5073847dd129424 
+T eq , degree =  7  to TA
+new NVID is  72872804554c30fc537490dea4654b214476ce3a0e87c9b1c2e43690eeb4ef1f Reg status is  S
+Reg Successful
+
+Total time taken for veh  RI3FRPN  reg is  0.0015439987182617188  sec
+==========================================================
+
+5) 
+
+The Vehicle ID is: UQAR5UE
+Enter password for veh_ID 'UQAR5UE': 'tr'
+Veh pswd is  'tr'
+HPW is  216bd4fc8d058f24d66453fc2a126bde27835bef5fa3a410d67af7f8df141765
+Sending Veh_ID =  UQAR5UE 
+HPW =  216bd4fc8d058f24d66453fc2a126bde27835bef5fa3a410d67af7f8df141765
+Veh_IDs matched ... Gen polynomial
+
+Degree is  4
+t_deg is  2
+h_deg is  2
+t_list is  [-6, -61, 37]
+h_list is  [-37, 69, 21]
+Polynomial t(x)= 
+-6  
+ +   
+-61  
+x^ 1  
+ +   
+37  
+x^ 2  
+
+ Polynomial h(x)= 
+-37  
+ +   
+69  
+x^ 1  
+ +   
+21  
+x^ 2  
+
+Product polynomial is 
+222  
+ +   
+1843  
+x^ 1  
+ +   
+-5704  
+x^ 2  
+ +   
+1272  
+x^ 3  
+ +   
+777  
+x^ 4  
+---------------------------
+
+Sending NVID =  79afb409ade6c652f610f2588b582266491013b33f048cb3a7500a5e8d273432 
+T eq , degree =  4  to TA
+new NVID is  4babdadad627c8825621ead9c4e772241134605cea683fba185fe8a0ed8e20b6 Reg status is  S
+Reg Successful
+
+Total time taken for veh  UQAR5UE  reg is  0.0013725757598876953  sec
+=======================================================
+
+6)
+
+The Vehicle ID is: 98HWWWF
+Enter password for veh_ID '98HWWWF': 'r'
+Veh pswd is  'r'
+HPW is  ff8a98d6a60292f2be25628629f25076c90c026b0ede69b94f3b03cbf6f1fd85
+Sending Veh_ID =  98HWWWF 
+HPW =  ff8a98d6a60292f2be25628629f25076c90c026b0ede69b94f3b03cbf6f1fd85
+Veh_IDs matched ... Gen polynomial
+
+Degree is  3
+t_deg is  1
+h_deg is  2
+t_list is  [27, -16]
+h_list is  [-42, 24, -14]
+Polynomial t(x)= 
+27  
+ +   
+-16  
+x^ 1  
+
+ Polynomial h(x)= 
+-42  
+ +   
+24  
+x^ 1  
+ +   
+-14  
+x^ 2  
+
+Product polynomial is 
+-1134  
+ +   
+1320  
+x^ 1  
+ +   
+-762  
+x^ 2  
+ +   
+224  
+x^ 3  
+---------------------------
+
+Sending NVID =  b746b5b9b500cd145cd4fa62c7e6b33fe9490443d378c7c420657175b8dd4dac 
+T eq , degree =  3  to TA
+new NVID is  bf0d5786876cc637a61ed6bb57efb5c0287386774acbe1a9bc90710f64bbb812 Reg status is  S
+Reg Successful
+
+Total time taken for veh  98HWWWF  reg is  0.0015299320220947266  sec
+==================================================
+
+7)
+
+The Vehicle ID is: OT3UKI0
+Enter password for veh_ID 'OT3UKI0': 'w'
+Veh pswd is  'w'
+HPW is  4ed60d7ba86c06d30df1f33a9af909ed2ec091f609446c9aaadd257e923229b3
+Sending Veh_ID =  OT3UKI0 
+HPW =  4ed60d7ba86c06d30df1f33a9af909ed2ec091f609446c9aaadd257e923229b3
+Veh_IDs matched ... Gen polynomial
+
+Degree is  4
+t_deg is  2
+h_deg is  2
+t_list is  [45, 60, -19]
+h_list is  [86, 38, -47]
+Polynomial t(x)= 
+45  
+ +   
+60  
+x^ 1  
+ +   
+-19  
+x^ 2  
+
+ Polynomial h(x)= 
+86  
+ +   
+38  
+x^ 1  
+ +   
+-47  
+x^ 2  
+
+Product polynomial is 
+3870  
+ +   
+6870  
+x^ 1  
+ +   
+-1469  
+x^ 2  
+ +   
+-3542  
+x^ 3  
+ +   
+893  
+x^ 4  
+---------------------------
+
+Sending NVID =  932307f8ba943dcaee9a2b204c4ce2ac8ce3a91e66cf45a527b61b7d3be0d29a 
+T eq , degree =  4  to TA
+new NVID is  d0f7239562d3a3921529f454e5c0034feacbf3a2b409eae1a134b515dff812fa Reg status is  S
+Reg Successful
+
+Total time taken for veh  OT3UKI0  reg is  0.0012819766998291016  sec
+===============================================================
+
+8) 
+
+The Vehicle ID is: 6HBF6I3
+Enter password for veh_ID '6HBF6I3': 're'
+Veh pswd is  're'
+HPW is  e45b34737643f221eda3973c24b52d03db77fec15f609d4dbb61fba30261221d
+Sending Veh_ID =  6HBF6I3 
+HPW =  e45b34737643f221eda3973c24b52d03db77fec15f609d4dbb61fba30261221d
+Veh_IDs matched ... Gen polynomial
+
+Degree is  4
+t_deg is  2
+h_deg is  2
+t_list is  [-55, -53, -83]
+h_list is  [20, 17, -98]
+Polynomial t(x)= 
+-55  
+ +   
+-53  
+x^ 1  
+ +   
+-83  
+x^ 2  
+
+ Polynomial h(x)= 
+20  
+ +   
+17  
+x^ 1  
+ +   
+-98  
+x^ 2  
+
+Product polynomial is 
+-1100  
+ +   
+-1995  
+x^ 1  
+ +   
+2829  
+x^ 2  
+ +   
+3783  
+x^ 3  
+ +   
+8134  
+x^ 4  
+---------------------------
+
+Sending NVID =  1b7eda22c6169808f9fd783fb581f86a7e66b345366c7e097d310be9571a8f5e 
+T eq , degree =  4  to TA
+new NVID is  3796dfac318ab67d7c3d0bf72f6e294fba2fd09eb4786c0945fa0e868b42cbc2 Reg status is  S
+Reg Successful
+
+Total time taken for veh  6HBF6I3  reg is  0.0020453929901123047  sec
+=========================================================
+
+9)
+
+The Vehicle ID is: 7H18GPE
+Enter password for veh_ID '7H18GPE': 'po'
+Veh pswd is  'po'
+HPW is  f5de37a76cad5f4159c15c1ec316eb99a76eabe0940331e0e9a0538e75a71429
+Sending Veh_ID =  7H18GPE 
+HPW =  f5de37a76cad5f4159c15c1ec316eb99a76eabe0940331e0e9a0538e75a71429
+Veh_IDs matched ... Gen polynomial
+
+Degree is  4
+t_deg is  2
+h_deg is  2
+t_list is  [9, -2, 30]
+h_list is  [-4, -23, 47]
+Polynomial t(x)= 
+9  
+ +   
+-2  
+x^ 1  
+ +   
+30  
+x^ 2  
+
+ Polynomial h(x)= 
+-4  
+ +   
+-23  
+x^ 1  
+ +   
+47  
+x^ 2  
+
+Product polynomial is 
+-36  
+ +   
+-199  
+x^ 1  
+ +   
+349  
+x^ 2  
+ +   
+-784  
+x^ 3  
+ +   
+1410  
+x^ 4  
+---------------------------
+
+Sending NVID =  dbd33e0c2d017f9959ddb9fcdfd5ff841459d7f571e33e48299db65e712725f6 
+T eq , degree =  4  to TA
+new NVID is  7a7b3b22791b20b969d4d1c8f5097878371dcf17966122c1dee74d079c8fd2f4 Reg status is  S
+Reg Successful
+
+Total time taken for veh  7H18GPE  reg is  0.0012297630310058594  sec
+====================================================
+
+10)
+
+
+The Vehicle ID is: SFBYHQV
+Enter password for veh_ID 'SFBYHQV': 'py'
+Veh pswd is  'py'
+HPW is  f09fa16bb37dddd9223ef45c9e1c5bb9f7529f9b345b17a9b92f9fedc9399dbe
+Sending Veh_ID =  SFBYHQV 
+HPW =  f09fa16bb37dddd9223ef45c9e1c5bb9f7529f9b345b17a9b92f9fedc9399dbe
+Veh_IDs matched ... Gen polynomial
+
+Degree is  7
+t_deg is  3
+h_deg is  4
+t_list is  [-96, 24, 74, -54]
+h_list is  [36, -6, -84, 35, -7]
+Polynomial t(x)= 
+-96  
+ +   
+24  
+x^ 1  
+ +   
+74  
+x^ 2  
+ +   
+-54  
+x^ 3  
+
+ Polynomial h(x)= 
+36  
+ +   
+-6  
+x^ 1  
+ +   
+-84  
+x^ 2  
+ +   
+35  
+x^ 3  
+ +   
+-7  
+x^ 4  
+
+Product polynomial is 
+-3456  
+ +   
+1440  
+x^ 1  
+ +   
+10584  
+x^ 2  
+ +   
+-7764  
+x^ 3  
+ +   
+-4380  
+x^ 4  
+ +   
+6958  
+x^ 5  
+ +   
+-2408  
+x^ 6  
+ +   
+378  
+x^ 7  
+---------------------------
+
+Sending NVID =  fcc887a8fd6cc14e7ba3a042ca064d3e129b36fa1d1e3286cd68ccf269732947 
+T eq , degree =  7  to TA
+new NVID is  aceb4b9658cea768f7c23f55efb65d23f7593476758f86c1558b107e4d31e45e Reg status is  S
+Reg Successful
+
+Total time taken for veh  SFBYHQV  reg is  0.0013849735260009766  sec
+========================================================
+
+11) 
+
+The Vehicle ID is: 1Q8J5IH
+Enter password for veh_ID '1Q8J5IH': 't'
+Veh pswd is  't'
+HPW is  da58ac9dd48759052936ed642553c7a260d7201d6d42ab86f50ac3e7da775c49
+Sending Veh_ID =  1Q8J5IH 
+HPW =  da58ac9dd48759052936ed642553c7a260d7201d6d42ab86f50ac3e7da775c49
+Veh_IDs matched ... Gen polynomial
+
+Degree is  7
+t_deg is  3
+h_deg is  4
+t_list is  [84, -34, -6, 24]
+h_list is  [-31, -4, -13, 77, 94]
+Polynomial t(x)= 
+84  
+ +   
+-34  
+x^ 1  
+ +   
+-6  
+x^ 2  
+ +   
+24  
+x^ 3  
+
+ Polynomial h(x)= 
+-31  
+ +   
+-4  
+x^ 1  
+ +   
+-13  
+x^ 2  
+ +   
+77  
+x^ 3  
+ +   
+94  
+x^ 4  
+
+Product polynomial is 
+-2604  
+ +   
+718  
+x^ 1  
+ +   
+-770  
+x^ 2  
+ +   
+6190  
+x^ 3  
+ +   
+5260  
+x^ 4  
+ +   
+-3970  
+x^ 5  
+ +   
+1284  
+x^ 6  
+ +   
+2256  
+x^ 7  
+---------------------------
+
+Sending NVID =  61a2acb8e2a7e724ddae2379ccdaa16db7e5d7bb2962deb12deb8e12f2dba174 
+T eq , degree =  7  to TA
+new NVID is  a565d5e00ad654db7348c81b448125b3eed51c3c40f2b80e95dcaf35ccc6aee3 Reg status is  S
+Reg Successful
+
+Total time taken for veh  1Q8J5IH  reg is  0.0016896724700927734  sec
+=================================================
+
+12) 
+
+The Vehicle ID is: VIBZL8R
+Enter password for veh_ID 'VIBZL8R': 'sd'
+Veh pswd is  'sd'
+HPW is  fa8736409a3a834aace3b22bc2aa10c272f13052a084968af7e58ef11984dab2
+Sending Veh_ID =  VIBZL8R 
+HPW =  fa8736409a3a834aace3b22bc2aa10c272f13052a084968af7e58ef11984dab2
+Veh_IDs matched ... Gen polynomial
+
+Degree is  5
+t_deg is  2
+h_deg is  3
+t_list is  [34, -83, -77]
+h_list is  [-15, -23, 87, -11]
+Polynomial t(x)= 
+34  
+ +   
+-83  
+x^ 1  
+ +   
+-77  
+x^ 2  
+
+ Polynomial h(x)= 
+-15  
+ +   
+-23  
+x^ 1  
+ +   
+87  
+x^ 2  
+ +   
+-11  
+x^ 3  
+
+Product polynomial is 
+-510  
+ +   
+463  
+x^ 1  
+ +   
+6022  
+x^ 2  
+ +   
+-5824  
+x^ 3  
+ +   
+-5786  
+x^ 4  
+ +   
+847  
+x^ 5  
+---------------------------
+
+Sending NVID =  a3de3ca72bac2b35fe1ea3dc7a1423ee0954ab7f7a212c6a0e6b648dd1b678c7 
+T eq , degree =  5  to TA
+new NVID is  fb15be31339cebb09bac0f3e0fe4b541666d6b77cf2d607bac061d358df864c8 Reg status is  S
+Reg Successful
+
+Total time taken for veh  VIBZL8R  reg is  0.00131988525390625  sec
+=====================================================
+
+13) 
+
+The Vehicle ID is: UMF9Z43
+Enter password for veh_ID 'UMF9Z43': 'cs'
+Veh pswd is  'cs'
+HPW is  62fa7b399fab013cf0aebae2a6b67523288c63f00a59a421fcfe03662f7613f5
+Sending Veh_ID =  UMF9Z43 
+HPW =  62fa7b399fab013cf0aebae2a6b67523288c63f00a59a421fcfe03662f7613f5
+Veh_IDs matched ... Gen polynomial
+
+Degree is  7
+t_deg is  3
+h_deg is  4
+t_list is  [41, 4, 25, 33]
+h_list is  [71, 96, 84, 63, -63]
+Polynomial t(x)= 
+41  
+ +   
+4  
+x^ 1  
+ +   
+25  
+x^ 2  
+ +   
+33  
+x^ 3  
+
+ Polynomial h(x)= 
+71  
+ +   
+96  
+x^ 1  
+ +   
+84  
+x^ 2  
+ +   
+63  
+x^ 3  
+ +   
+-63  
+x^ 4  
+
+Product polynomial is 
+2911  
+ +   
+4220  
+x^ 1  
+ +   
+5603  
+x^ 2  
+ +   
+7662  
+x^ 3  
+ +   
+2937  
+x^ 4  
+ +   
+4095  
+x^ 5  
+ +   
+504  
+x^ 6  
+ +   
+-2079  
+x^ 7  
+---------------------------
+
+Sending NVID =  4a64c00303bfa3c48cd16e4db6bcf6878c81b0d6fa621cfebe87e37d14a1707b 
+T eq , degree =  7  to TA
+new NVID is  2aba7a87934506f819813254c136a1bbc14797e4bf1f78ef210e58ba722b6b7f Reg status is  S
+Reg Successful
+
+Total time taken for veh  UMF9Z43  reg is  0.001569509506225586  sec
+================================================
+
+14) 
+
+The Vehicle ID is: B851RTL
+Enter password for veh_ID 'B851RTL': 'kg'
+Veh pswd is  'kg'
+HPW is  10630dec7a017c9bf3434e34487af2b35a0cb3c78c1e5aa5f95cb276c4b1af9e
+Sending Veh_ID =  B851RTL 
+HPW =  10630dec7a017c9bf3434e34487af2b35a0cb3c78c1e5aa5f95cb276c4b1af9e
+Veh_IDs matched ... Gen polynomial
+
+Degree is  4
+t_deg is  2
+h_deg is  2
+t_list is  [84, -25, -14]
+h_list is  [81, 48, 11]
+Polynomial t(x)= 
+84  
+ +   
+-25  
+x^ 1  
+ +   
+-14  
+x^ 2  
+
+ Polynomial h(x)= 
+81  
+ +   
+48  
+x^ 1  
+ +   
+11  
+x^ 2  
+
+Product polynomial is 
+6804  
+ +   
+2007  
+x^ 1  
+ +   
+-1410  
+x^ 2  
+ +   
+-947  
+x^ 3  
+ +   
+-154  
+x^ 4  
+---------------------------
+
+Sending NVID =  cf4dc24348665869d64c81acd352c7a62d688a01740cac7066c4476f4af0de74 
+T eq , degree =  4  to TA
+new NVID is  71aff6bfe9159666d9b4e278cfd4bf4831ae8caa0eedc7492c26dcbd71640250 Reg status is  S
+Reg Successful
+
+Total time taken for veh  B851RTL  reg is  0.0013098716735839844  sec
+============================================
+
+15) 
+
+The Vehicle ID is: 55T6PEC
+Enter password for veh_ID '55T6PEC': 'ls'
+Veh pswd is  'ls'
+HPW is  fa300fc38b75a71d2460dc2ebdfb961334565901be0c529ee46b55550efeba21
+Sending Veh_ID =  55T6PEC 
+HPW =  fa300fc38b75a71d2460dc2ebdfb961334565901be0c529ee46b55550efeba21
+Veh_IDs matched ... Gen polynomial
+
+Degree is  7
+t_deg is  3
+h_deg is  4
+t_list is  [53, 81, -52, 79]
+h_list is  [-25, 27, -30, -50, -32]
+Polynomial t(x)= 
+53  
+ +   
+81  
+x^ 1  
+ +   
+-52  
+x^ 2  
+ +   
+79  
+x^ 3  
+
+ Polynomial h(x)= 
+-25  
+ +   
+27  
+x^ 1  
+ +   
+-30  
+x^ 2  
+ +   
+-50  
+x^ 3  
+ +   
+-32  
+x^ 4  
+
+Product polynomial is 
+-1325  
+ +   
+-594  
+x^ 1  
+ +   
+1897  
+x^ 2  
+ +   
+-8459  
+x^ 3  
+ +   
+-2053  
+x^ 4  
+ +   
+-2362  
+x^ 5  
+ +   
+-2286  
+x^ 6  
+ +   
+-2528  
+x^ 7  
+---------------------------
+
+Sending NVID =  9321ef331eccef7b99d099bbb60120ed60987ed8824eeb07df4ec218adb84261 
+T eq , degree =  7  to TA
+new NVID is  7cf844bd0c67f5b6f7e8867991b27deb0dd3348b44bf4bb3ff12d65af5eb600a Reg status is  S
+Reg Successful
+
+Total time taken for veh  55T6PEC  reg is  0.0016713142395019531  sec
+=====================================================
+
+16) 
+
+The Vehicle ID is: CWHM2D3
+Enter password for veh_ID 'CWHM2D3': 'xc'
+Veh pswd is  'xc'
+HPW is  0e0e92cf9f2fb81c066c2ae87d8c4b44d0921175b0a533420165c3637ea0b6a2
+Sending Veh_ID =  CWHM2D3 
+HPW =  0e0e92cf9f2fb81c066c2ae87d8c4b44d0921175b0a533420165c3637ea0b6a2
+Veh_IDs matched ... Gen polynomial
+
+Degree is  7
+t_deg is  3
+h_deg is  4
+t_list is  [-2, 96, 10, 15]
+h_list is  [-93, -3, -35, -95, -65]
+Polynomial t(x)= 
+-2  
+ +   
+96  
+x^ 1  
+ +   
+10  
+x^ 2  
+ +   
+15  
+x^ 3  
+
+ Polynomial h(x)= 
+-93  
+ +   
+-3  
+x^ 1  
+ +   
+-35  
+x^ 2  
+ +   
+-95  
+x^ 3  
+ +   
+-65  
+x^ 4  
+
+Product polynomial is 
+186  
+ +   
+-8922  
+x^ 1  
+ +   
+-1148  
+x^ 2  
+ +   
+-4595  
+x^ 3  
+ +   
+-9385  
+x^ 4  
+ +   
+-7715  
+x^ 5  
+ +   
+-2075  
+x^ 6  
+ +   
+-975  
+x^ 7  
+---------------------------
+
+Sending NVID =  a03e425b57008df2b20ecdcd49135e947542d17e38ffa667461abbb40b89859b 
+T eq , degree =  7  to TA
+new NVID is  d54167773fe8c69a12608c1f5e875758e1f403b6c2c0b8fd44b7fa8318b886b2 Reg status is  S
+Reg Successful
+
+Total time taken for veh  CWHM2D3  reg is  0.0015377998352050781  sec
+========================================
+
+17) 
+
+The Vehicle ID is: 5HBW1YO
+Enter password for veh_ID '5HBW1YO': 'ad'
+Veh pswd is  'ad'
+HPW is  f31c1170f723f408b3467bcdf74c978be79d09dc43c18a57d030f8658adc83b4
+Sending Veh_ID =  5HBW1YO 
+HPW =  f31c1170f723f408b3467bcdf74c978be79d09dc43c18a57d030f8658adc83b4
+Veh_IDs matched ... Gen polynomial
+
+Degree is  3
+t_deg is  1
+h_deg is  2
+t_list is  [84, 93]
+h_list is  [-72, -56, -20]
+Polynomial t(x)= 
+84  
+ +   
+93  
+x^ 1  
+
+ Polynomial h(x)= 
+-72  
+ +   
+-56  
+x^ 1  
+ +   
+-20  
+x^ 2  
+
+Product polynomial is 
+-6048  
+ +   
+-11400  
+x^ 1  
+ +   
+-6888  
+x^ 2  
+ +   
+-1860  
+x^ 3  
+---------------------------
+
+Sending NVID =  e0c6820983d2e18ee2296ce69a76c744653d4a1e70e4969505c7426d25711f29 
+T eq , degree =  3  to TA
+new NVID is  6fe92c3a17e0e61f9e8cee2df8f46fce82d3b897a568d846420f2e0750434c2a Reg status is  S
+Reg Successful
+
+Total time taken for veh  5HBW1YO  reg is  0.0013973712921142578  sec
+===============================================
+
+18)
+
+The Vehicle ID is: 1CA7CCJ
+Enter password for veh_ID '1CA7CCJ': 'px'
+Veh pswd is  'px'
+HPW is  5ebb8e4266882debfd7ca78a18981fc30c77d1b2261e17027fe044920d5bef0f
+Sending Veh_ID =  1CA7CCJ 
+HPW =  5ebb8e4266882debfd7ca78a18981fc30c77d1b2261e17027fe044920d5bef0f
+Veh_IDs matched ... Gen polynomial
+
+Degree is  4
+t_deg is  2
+h_deg is  2
+t_list is  [-65, -88, -34]
+h_list is  [27, 6, -95]
+Polynomial t(x)= 
+-65  
+ +   
+-88  
+x^ 1  
+ +   
+-34  
+x^ 2  
+
+ Polynomial h(x)= 
+27  
+ +   
+6  
+x^ 1  
+ +   
+-95  
+x^ 2  
+
+Product polynomial is 
+-1755  
+ +   
+-2766  
+x^ 1  
+ +   
+4729  
+x^ 2  
+ +   
+8156  
+x^ 3  
+ +   
+3230  
+x^ 4  
+---------------------------
+
+Sending NVID =  09752d298e17093a775be11a159e89f6c2f51caa143ac12cb0aaa4e30a97f8ce 
+T eq , degree =  4  to TA
+new NVID is  4e8abb90f052c90260738d2c54e7d16bae78d49fca873e4058333fdca2011f84 Reg status is  S
+Reg Successful
+
+Total time taken for veh  1CA7CCJ  reg is  0.001346588134765625  sec
+==================================================
+
+19)
+
+The Vehicle ID is: 7GSA0F5
+Enter password for veh_ID '7GSA0F5': 'kj'
+Veh pswd is  'kj'
+HPW is  60d7a849c1ff725eda494e307a5c563d5ec08dae2840f96c6ae9c4b7572b7cb0
+Sending Veh_ID =  7GSA0F5 
+HPW =  60d7a849c1ff725eda494e307a5c563d5ec08dae2840f96c6ae9c4b7572b7cb0
+Veh_IDs matched ... Gen polynomial
+
+Degree is  3
+t_deg is  1
+h_deg is  2
+t_list is  [-37, -66]
+h_list is  [98, -80, -72]
+Polynomial t(x)= 
+-37  
+ +   
+-66  
+x^ 1  
+
+ Polynomial h(x)= 
+98  
+ +   
+-80  
+x^ 1  
+ +   
+-72  
+x^ 2  
+
+Product polynomial is 
+-3626  
+ +   
+-3508  
+x^ 1  
+ +   
+7944  
+x^ 2  
+ +   
+4752  
+x^ 3  
+---------------------------
+
+Sending NVID =  498a9a067b418cb2be8b4fd3944e39d7238b19ab165a5bd3eb9dc4bdaf8e5b0e 
+T eq , degree =  3  to TA
+new NVID is  206124e7754b806786e62ff1b9a6c853b754f2f683229869df51ba7786293f5b Reg status is  S
+Reg Successful
+
+Total time taken for veh  7GSA0F5  reg is  0.0017502307891845703  sec
+============================================
+
+20)
+
+The Vehicle ID is: 9GH1YS5
+Enter password for veh_ID '9GH1YS5': 'ps'
+Veh pswd is  'ps'
+HPW is  9713a32c7dfd794744f4ee65098395d661dcdda3650cf551d88bfa16a745f32a
+Sending Veh_ID =  9GH1YS5 
+HPW =  9713a32c7dfd794744f4ee65098395d661dcdda3650cf551d88bfa16a745f32a
+Veh_IDs matched ... Gen polynomial
+
+Degree is  5
+t_deg is  2
+h_deg is  3
+t_list is  [-47, 86, 95]
+h_list is  [26, 34, 9, -63]
+Polynomial t(x)= 
+-47  
+ +   
+86  
+x^ 1  
+ +   
+95  
+x^ 2  
+
+ Polynomial h(x)= 
+26  
+ +   
+34  
+x^ 1  
+ +   
+9  
+x^ 2  
+ +   
+-63  
+x^ 3  
+
+Product polynomial is 
+-1222  
+ +   
+638  
+x^ 1  
+ +   
+4971  
+x^ 2  
+ +   
+6965  
+x^ 3  
+ +   
+-4563  
+x^ 4  
+ +   
+-5985  
+x^ 5  
+---------------------------
+
+Sending NVID =  f9575f383a051d082c0d14dff55cb728e00be811d38bc59b8e88a873a3dc7b5c 
+T eq , degree =  5  to TA
+new NVID is  01b1bbe4659d87cef20b0b2ca6e913c2f2f24b5c651f0b4aa7522c098d2c10e5 Reg status is  S
+Reg Successful
+
+Total time taken for veh  9GH1YS5  reg is  0.0017285346984863281  sec
+===========================================
+
+21)
+
+The Vehicle ID is: TT9IZJ1
+Enter password for veh_ID 'TT9IZJ1': 'sb'
+Veh pswd is  'sb'
+HPW is  a80244170f63ea027eae144dd8e6b2993b0fd0b0e5922562ae5d322f494a385d
+Sending Veh_ID =  TT9IZJ1 
+HPW =  a80244170f63ea027eae144dd8e6b2993b0fd0b0e5922562ae5d322f494a385d
+Veh_IDs matched ... Gen polynomial
+
+Degree is  6
+t_deg is  3
+h_deg is  3
+t_list is  [57, 98, -92, -40]
+h_list is  [41, 100, 29, -6]
+Polynomial t(x)= 
+57  
+ +   
+98  
+x^ 1  
+ +   
+-92  
+x^ 2  
+ +   
+-40  
+x^ 3  
+
+ Polynomial h(x)= 
+41  
+ +   
+100  
+x^ 1  
+ +   
+29  
+x^ 2  
+ +   
+-6  
+x^ 3  
+
+Product polynomial is 
+2337  
+ +   
+9718  
+x^ 1  
+ +   
+7681  
+x^ 2  
+ +   
+-8340  
+x^ 3  
+ +   
+-7256  
+x^ 4  
+ +   
+-608  
+x^ 5  
+ +   
+240  
+x^ 6  
+---------------------------
+
+Sending NVID =  1e588be6f3579f9c806b991056525e486735f18499a992a64472c2eae679c79f 
+T eq , degree =  6  to TA
+new NVID is  44278f83b22b9d720ca151cf7af0a6e8d13fb3f6500dbcab513dd9007e051327 Reg status is  S
+Reg Successful
+
+Total time taken for veh  TT9IZJ1  reg is  0.0015003681182861328  sec
+=========================================
+
+22)
+
+The Vehicle ID is: DQBD1JX
+Enter password for veh_ID 'DQBD1JX': 'ok'
+Veh pswd is  'ok'
+HPW is  ce21ffe477b55e52b47d79e9b9064b8c6d0c783fef73560fc93bd22994aeeb90
+Sending Veh_ID =  DQBD1JX 
+HPW =  ce21ffe477b55e52b47d79e9b9064b8c6d0c783fef73560fc93bd22994aeeb90
+Veh_IDs matched ... Gen polynomial
+
+Degree is  3
+t_deg is  1
+h_deg is  2
+t_list is  [71, 30]
+h_list is  [80, -25, 81]
+Polynomial t(x)= 
+71  
+ +   
+30  
+x^ 1  
+
+ Polynomial h(x)= 
+80  
+ +   
+-25  
+x^ 1  
+ +   
+81  
+x^ 2  
+
+Product polynomial is 
+5680  
+ +   
+625  
+x^ 1  
+ +   
+5001  
+x^ 2  
+ +   
+2430  
+x^ 3  
+---------------------------
+
+Sending NVID =  e741393b0bef95c6c1b0730cdb0fe0b7a93e5ab62e9fd30fc33adf67e01d0095 
+T eq , degree =  3  to TA
+new NVID is  7551a4d0b161e4224e3fc2e7bbd9f5803078e44cdd263d2eba71f81d895abc3f Reg status is  S
+Reg Successful
+
+Total time taken for veh  DQBD1JX  reg is  0.0017881393432617188  sec
+======================================
+
+23) 
+
+The Vehicle ID is: M52CGNZ
+Enter password for veh_ID 'M52CGNZ': 'po'
+Veh pswd is  'po'
+HPW is  2a7a2af9492ac576bfea6e7163e21065d8e5dd330a31520b01b62b5919d37fea
+Sending Veh_ID =  M52CGNZ 
+HPW =  2a7a2af9492ac576bfea6e7163e21065d8e5dd330a31520b01b62b5919d37fea
+Veh_IDs matched ... Gen polynomial
+
+Degree is  5
+t_deg is  2
+h_deg is  3
+t_list is  [61, 22, 79]
+h_list is  [12, 6, -42, 69]
+Polynomial t(x)= 
+61  
+ +   
+22  
+x^ 1  
+ +   
+79  
+x^ 2  
+
+ Polynomial h(x)= 
+12  
+ +   
+6  
+x^ 1  
+ +   
+-42  
+x^ 2  
+ +   
+69  
+x^ 3  
+
+Product polynomial is 
+732  
+ +   
+630  
+x^ 1  
+ +   
+-1482  
+x^ 2  
+ +   
+3759  
+x^ 3  
+ +   
+-1800  
+x^ 4  
+ +   
+5451  
+x^ 5  
+---------------------------
+
+Sending NVID =  a1eaff7f8ab7b01831ad652686b8c61b0062f340bd6ef9bdf119ab3b5fed1faf 
+T eq , degree =  5  to TA
+new NVID is  fec161480204b58092ddd3f9b845edb02d675731617bfd0430f89d62bd882d0a Reg status is  S
+Reg Successful
+
+Total time taken for veh  M52CGNZ  reg is  0.0014712810516357422  sec
+===================================
+
+24) 
+
+The Vehicle ID is: UNKB3SL
+Enter password for veh_ID 'UNKB3SL': 'sb'
+Veh pswd is  'sb'
+HPW is  9912be29f0825ef273850cb62fbd90656e1cd6785351a12d27f79fbfd59322e6
+Sending Veh_ID =  UNKB3SL 
+HPW =  9912be29f0825ef273850cb62fbd90656e1cd6785351a12d27f79fbfd59322e6
+Veh_IDs matched ... Gen polynomial
+
+Degree is  3
+t_deg is  1
+h_deg is  2
+t_list is  [26, -83]
+h_list is  [83, 80, 94]
+Polynomial t(x)= 
+26  
+ +   
+-83  
+x^ 1  
+
+ Polynomial h(x)= 
+83  
+ +   
+80  
+x^ 1  
+ +   
+94  
+x^ 2  
+
+Product polynomial is 
+2158  
+ +   
+-4809  
+x^ 1  
+ +   
+-4196  
+x^ 2  
+ +   
+-7802  
+x^ 3  
+---------------------------
+
+Sending NVID =  1c4b80ab69583843dea6e5991efa98c9936a81f57715d04f5d0ca9ee4143a2d6 
+T eq , degree =  3  to TA
+new NVID is  466e40ac4a451881632670276c0ca57766c696ef6f5ba4ecd2c80af42a568c5e Reg status is  S
+Reg Successful
+
+Total time taken for veh  UNKB3SL  reg is  0.0014455318450927734  sec
+=======================================
+
+25)
+
+The Vehicle ID is: 7GHASWN
+Enter password for veh_ID '7GHASWN': 'asd'
+Veh pswd is  'asd'
+HPW is  1f04103bf7b4398fc1a2be07e0bf873e10c44f7e99537dc50b65588b206266ff
+Sending Veh_ID =  7GHASWN 
+HPW =  1f04103bf7b4398fc1a2be07e0bf873e10c44f7e99537dc50b65588b206266ff
+Veh_IDs matched ... Gen polynomial
+
+Degree is  6
+t_deg is  3
+h_deg is  3
+t_list is  [-10, 55, 32, -46]
+h_list is  [77, -58, -13, 91]
+Polynomial t(x)= 
+-10  
+ +   
+55  
+x^ 1  
+ +   
+32  
+x^ 2  
+ +   
+-46  
+x^ 3  
+
+ Polynomial h(x)= 
+77  
+ +   
+-58  
+x^ 1  
+ +   
+-13  
+x^ 2  
+ +   
+91  
+x^ 3  
+
+Product polynomial is 
+-770  
+ +   
+4815  
+x^ 1  
+ +   
+-596  
+x^ 2  
+ +   
+-7023  
+x^ 3  
+ +   
+7257  
+x^ 4  
+ +   
+3510  
+x^ 5  
+ +   
+-4186  
+x^ 6  
+---------------------------
+
+Sending NVID =  d436b9409a2b5832cb2c384ca3948d5407e44485dde6cb46a6b02a2fe9392c27 
+T eq , degree =  6  to TA
+new NVID is  de71d98d008756c84179d114df9b552d97a26f563216273ec4917040bce219c8 Reg status is  S
+Reg Successful
+
+Total time taken for veh  7GHASWN  reg is  0.0015304088592529297  sec
+===============================================
+
+26)
+
+The Vehicle ID is: 2VTH0AJ
+Enter password for veh_ID '2VTH0AJ': 'qw'
+Veh pswd is  'qw'
+HPW is  7b248d0abeddff3a4963f4cf1ab60b899f2f6909d32b43dbacfa945eb3d3073f
+Sending Veh_ID =  2VTH0AJ 
+HPW =  7b248d0abeddff3a4963f4cf1ab60b899f2f6909d32b43dbacfa945eb3d3073f
+Veh_IDs matched ... Gen polynomial
+
+Degree is  5
+t_deg is  2
+h_deg is  3
+t_list is  [-11, -60, -56]
+h_list is  [-6, 43, 95, 79]
+Polynomial t(x)= 
+-11  
+ +   
+-60  
+x^ 1  
+ +   
+-56  
+x^ 2  
+
+ Polynomial h(x)= 
+-6  
+ +   
+43  
+x^ 1  
+ +   
+95  
+x^ 2  
+ +   
+79  
+x^ 3  
+
+Product polynomial is 
+66  
+ +   
+-113  
+x^ 1  
+ +   
+-3289  
+x^ 2  
+ +   
+-8977  
+x^ 3  
+ +   
+-10060  
+x^ 4  
+ +   
+-4424  
+x^ 5  
+---------------------------
+
+Sending NVID =  468a34a38812cd15f926e1def76321a5f042fd47aef73d91410eb2913bbe9b48 
+T eq , degree =  5  to TA
+new NVID is  7b248d0abeddff3a4963f4cf1ab60b899f2f6909d32b43dbacfa945eb3d3073f Reg status is  S
+Reg Successful
+
+Total time taken for veh  2VTH0AJ  reg is  0.0016283988952636719  sec
+==================================
+
+27)
+
+The Vehicle ID is: DC4FVSU
+Enter password for veh_ID 'DC4FVSU': 'po'
+Veh pswd is  'po'
+HPW is  a6166a538c1392407655cdffca2d5dae55ee78f4bfc0b1ef1bc06ccdc032400a
+Sending Veh_ID =  DC4FVSU 
+HPW =  a6166a538c1392407655cdffca2d5dae55ee78f4bfc0b1ef1bc06ccdc032400a
+Veh_IDs matched ... Gen polynomial
+
+Degree is  6
+t_deg is  3
+h_deg is  3
+t_list is  [5, 10, 55, 65]
+h_list is  [-14, -51, -59, -12]
+Polynomial t(x)= 
+5  
+ +   
+10  
+x^ 1  
+ +   
+55  
+x^ 2  
+ +   
+65  
+x^ 3  
+
+ Polynomial h(x)= 
+-14  
+ +   
+-51  
+x^ 1  
+ +   
+-59  
+x^ 2  
+ +   
+-12  
+x^ 3  
+
+Product polynomial is 
+-70  
+ +   
+-395  
+x^ 1  
+ +   
+-1575  
+x^ 2  
+ +   
+-4365  
+x^ 3  
+ +   
+-6680  
+x^ 4  
+ +   
+-4495  
+x^ 5  
+ +   
+-780  
+x^ 6  
+---------------------------
+
+Sending NVID =  ae0c7ad7707149c7f93089db74d3846aeb66bebfa24a6651199856670c2e2d3d 
+T eq , degree =  6  to TA
+new NVID is  8e4de1caab4913cb6f44d53ecf2f56279c5511330ebb99bf357e10861366aca2 Reg status is  S
+Reg Successful
+
+Total time taken for veh  DC4FVSU  reg is  0.001383066177368164  sec
+====================================================
+
+28)
+
+The Vehicle ID is: QWEDDNQ
+Enter password for veh_ID 'QWEDDNQ': 'zd'
+Veh pswd is  'zd'
+HPW is  5ad694c31486d7cd80a704985e8ca6c9cc39458cc0bb1bef0bf885abb47bd976
+Sending Veh_ID =  QWEDDNQ 
+HPW =  5ad694c31486d7cd80a704985e8ca6c9cc39458cc0bb1bef0bf885abb47bd976
+Veh_IDs matched ... Gen polynomial
+
+Degree is  3
+t_deg is  1
+h_deg is  2
+t_list is  [-96, 96]
+h_list is  [-68, -66, 61]
+Polynomial t(x)= 
+-96  
+ +   
+96  
+x^ 1  
+
+ Polynomial h(x)= 
+-68  
+ +   
+-66  
+x^ 1  
+ +   
+61  
+x^ 2  
+
+Product polynomial is 
+6528  
+ +   
+-192  
+x^ 1  
+ +   
+-12192  
+x^ 2  
+ +   
+5856  
+x^ 3  
+---------------------------
+
+Sending NVID =  db48b1256c20eb917c0b6d1d298575dc6a1bd7e2fdb54067d07e4ed0ed00fa1a 
+T eq , degree =  3  to TA
+new NVID is  167ccc3d2ec5ff07d867c03e7e97e2902a7265f105e931b7654d86c7c34a6a75 Reg status is  S
+Reg Successful
+
+Total time taken for veh  QWEDDNQ  reg is  0.0013210773468017578  sec
+===========================================
+
+29)
+
+The Vehicle ID is: C7Z79XY
+Enter password for veh_ID 'C7Z79XY': 'we'
+Veh pswd is  'we'
+HPW is  d496a33fe155021a5af62b9225832af232170daaf2eb6ffba654e8465a3abe91
+Sending Veh_ID =  C7Z79XY 
+HPW =  d496a33fe155021a5af62b9225832af232170daaf2eb6ffba654e8465a3abe91
+Veh_IDs matched ... Gen polynomial
+
+Degree is  3
+t_deg is  1
+h_deg is  2
+t_list is  [-64, -29]
+h_list is  [87, 85, 47]
+Polynomial t(x)= 
+-64  
+ +   
+-29  
+x^ 1  
+
+ Polynomial h(x)= 
+87  
+ +   
+85  
+x^ 1  
+ +   
+47  
+x^ 2  
+
+Product polynomial is 
+-5568  
+ +   
+-7963  
+x^ 1  
+ +   
+-5473  
+x^ 2  
+ +   
+-1363  
+x^ 3  
+---------------------------
+
+Sending NVID =  d665acee27d242b44f31b4a822e2dfcfe05de456d62760a0e97df0005ecd38c6 
+T eq , degree =  3  to TA
+new NVID is  d665acee27d242b44f31b4a822e2dfcfe05de456d62760a0e97df0005ecd38c6 Reg status is  S
+Reg Successful
+
+Total time taken for veh  C7Z79XY  reg is  0.0013968944549560547  sec
+=========================================
+
+30)
+
+The Vehicle ID is: CADLTBD
+Enter password for veh_ID 'CADLTBD': 'wqw'
+Veh pswd is  'wqw'
+HPW is  7f09d1f600384beb8f098556f1a4000b77cde16ca4005a8636b5851c57a1c7d7
+Sending Veh_ID =  CADLTBD 
+HPW =  7f09d1f600384beb8f098556f1a4000b77cde16ca4005a8636b5851c57a1c7d7
+Veh_IDs matched ... Gen polynomial
+
+Degree is  5
+t_deg is  2
+h_deg is  3
+t_list is  [62, -68, -78]
+h_list is  [26, -39, -22, 86]
+Polynomial t(x)= 
+62  
+ +   
+-68  
+x^ 1  
+ +   
+-78  
+x^ 2  
+
+ Polynomial h(x)= 
+26  
+ +   
+-39  
+x^ 1  
+ +   
+-22  
+x^ 2  
+ +   
+86  
+x^ 3  
+
+Product polynomial is 
+1612  
+ +   
+-4186  
+x^ 1  
+ +   
+-740  
+x^ 2  
+ +   
+9870  
+x^ 3  
+ +   
+-4132  
+x^ 4  
+ +   
+-6708  
+x^ 5  
+---------------------------
+
+Sending NVID =  c1ba683f16ab178d6e4814bc89a8ab2f37dcd78015e060a8ef4497e454418912 
+T eq , degree =  5  to TA
+new NVID is  2f4acd53d47a5ec5eee4a31292f628e03ee7f0ce67c163a12f5cbabeacea45ac Reg status is  S
+Reg Successful
+
+Total time taken for veh  CADLTBD  reg is  0.0015506744384765625  sec
+=====================================
